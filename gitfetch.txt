@@ -1,0 +1,13 @@
+Git fetch
+
+Git "fetch" Downloads commits, objects and refs from another repository. 
+It fetches branches and tags from one or more repositories. 
+It holds repositories along with the objects that are necessary
+to complete their histories to keep updated remote-tracking branches.
+
+The "git fetch" command is used to pull the updates from remote-tracking branches.
+
+1. git fetch< repository Url> 
+2. git fetch <branch URL><branch name>  
+3. git fetch -all 
+4. git fetch origin 
