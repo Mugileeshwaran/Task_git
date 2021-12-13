@@ -1,0 +1,6 @@
+Hash
+
+To search for a hash, just enter at least the first 7 characters in the search box. 
+Then on the results page, click the "Commits" tab to see matching commits 
+(but only on the default branch, usually master),or the "Issues" tab to see 
+pull requests containing the commit.
